@@ -9,7 +9,7 @@ const categories = require('./data/categories.json');
 const details = require('./data/details.json');
 
 app.get('/', (req, res) => {
-    res.send('happy learning server is running')
+    res.send('server is running')
 })
 
 app.get('/categories', (req, res) => {
@@ -23,5 +23,5 @@ app.get('/details/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('server is running on port', port)
+    console.log('server is running  port', port)
 })
