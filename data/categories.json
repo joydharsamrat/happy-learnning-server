@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Javascript",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+        "id": "1"
+    },
+    {
+        "name": "Python",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+        "id": "2"
+    },
+    {
+        "name": "Java",
+        "img": "https://cdn-icons-png.flaticon.com/512/226/226777.png",
+        "id": "3"
+    },
+    {
+        "name": "C#",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png",
+        "id": "4"
+    },
+    {
+        "name": "PHP",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
+        "id": "5"
+    },
+    {
+        "name": "Kotlin",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png",
+        "id": "6"
+    }
+]
