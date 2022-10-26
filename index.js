@@ -16,11 +16,7 @@ app.get('/categories', (req, res) => {
     res.send(categories)
 })
 
-app.get('/details/:id', (req, res) => {
-    const id = req.params.id;
-    const subjectDetails = details.find(subject => subject.id == id)
-    res.send(subjectDetails)
-})
+
 
 app.listen(port, () => {
     console.log('server is running on port', port)
